@@ -1,0 +1,49 @@
+{
+    "Sara": {
+        "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+        "weekly_budget": 0,
+        "savings": 0.0,
+        "last_transfer": "2025-07-04",
+        "savings_log": [
+            {
+                "date": "2025-07-04",
+                "amount": 0
+            }
+        ],
+        "expenses": []
+    },
+    "Exi": {
+        "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "weekly_budget": 500.0,
+        "savings": 0.0,
+        "last_transfer": "",
+        "savings_log": [],
+        "expenses": [
+            {
+                "date": "2025-07-04",
+                "category": "food",
+                "amount": 200.0
+            },
+            {
+                "date": "2025-07-04",
+                "category": "transportation",
+                "amount": 300.0
+            },
+            {
+                "date": "2025-07-04",
+                "category": "entertainment",
+                "amount": 12.0
+            },
+            {
+                "date": "2025-07-04",
+                "category": "rent",
+                "amount": 50.0
+            },
+            {
+                "date": "2025-07-04",
+                "category": "medical",
+                "amount": 20.0
+            }
+        ]
+    }
+}
